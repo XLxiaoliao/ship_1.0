@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "u_infrared.h": "c",
+        "u_motor.h": "c"
+    }
+}
